@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "email": "emma.wong@reqres.in",
+      "first_name": "Emma",
+      "name": "Emma",
+      "username": "ema22",
+      "last_name": "Wong",
+      "phone": "24576537",
+      "CreatedDate": "11-04-2020",
+      "avatar": "https://reqres.in/img/faces/3-image.jpg"
+    },
+    {
+      "id": 4,
+      "email": "eve.holt@reqres.in",
+      "first_name": "Eve",
+      "name": "Eve",
+      "username": "ev12",
+      "last_name": "Holt",
+      "phone": "245666537",
+      "CreatedDate": "15-07-2020",
+      "avatar": "https://reqres.in/img/faces/4-image.jpg"
+    },
+    {
+      "id": 5,
+      "email": "charles.morris@reqres.in",
+      "first_name": "Charles",
+      "name": "Charles",
+      "username": "cah191",
+      "last_name": "Morris",
+      "phone": "24569937",
+      "CreatedDate": "11-08-2020",
+      "avatar": "https://reqres.in/img/faces/5-image.jpg"
+    },
+    {
+      "id": 6,
+      "email": "tracey.ramos@reqres.in",
+      "first_name": "Tracey",
+      "name": "Tracey",
+      "username": "tac1922",
+      "last_name": "Ramos",
+      "phone": "24566788",
+      "CreatedDate": "09-10-2020",
+      "avatar": "https://reqres.in/img/faces/6-image.jpg"
+    },
+    {
+      "name": "Sandeep Goswami",
+      "username": "sandeep1022",
+      "email": "sanu9598klmp@gmail.com",
+      "phone": "77777777",
+      "CreatedDate": "12-11-2020",
+      "id": 8,
+      "CreateDate": "02-12-2020"
+    },
+    {
+      "name": "Sandeep Giri",
+      "username": "sanu959",
+      "email": "sanu9598klmp@gmail.com",
+      "phone": "08840500763",
+      "CreatedDate": "12-11-2020",
+      "id": 9
+    }
+  ]
+}
